@@ -1,2 +1,1 @@
-# chatbot-ia-generativa-quantizado
-Chatbot que integra modelos de Inteligência Artificial generativa quantizados com documentos privados dos usuários.
+Repositório do código contido no artigo ["Democratizando a IA generativa: Como quantizar grandes modelos para executá-los em computadores pessoais"](https://medium.com/@ricardoronsoni/democratizando-a-ia-generativa-como-quantizar-grandes-modelos-para-executar-em-computadores-3b8e49c7de8c).
